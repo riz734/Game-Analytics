@@ -1,0 +1,9 @@
+https://www.kaggle.com/datasets/elmartini/skyrim-weapons-dataset
+
+https://www.kaggle.com/datasets/stephenofarrell/skyrim-races-base-stats
+
+https://www.kaggle.com/datasets/aadamg/skyrim-books-from-uesp
+
+https://www.kaggle.com/datasets/muhajipra/people-of-skyrim
+
+https://www.kaggle.com/datasets/juanmurrietaorozco/skyrim-ingredients-1
