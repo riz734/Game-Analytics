@@ -1,0 +1,5 @@
+https://www.kaggle.com/datasets/thedevastator/twitch-streamers-comparing-top-streamers-across
+
+https://www.kaggle.com/datasets/mowglii/twitch-chat-test-data
+
+https://www.kaggle.com/datasets/rankirsh/evolution-of-top-games-on-twitch
