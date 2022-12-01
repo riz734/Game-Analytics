@@ -1,0 +1,3 @@
+https://www.kaggle.com/datasets/archanghosh/yugioh-database?select=Yugi_db_cleaned.csv
+
+https://www.kaggle.com/datasets/ioexception/yugioh-cards
