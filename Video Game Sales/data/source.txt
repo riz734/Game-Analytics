@@ -1,5 +1,0 @@
-https://www.kaggle.com/datasets/sandhyakrishnan02/video-game-sales
-
-https://www.kaggle.com/datasets/deepcontractor/top-video-games-19952021-metacritic
-
-https://www.kaggle.com/datasets/imohtn/video-games-rating-by-esrb
